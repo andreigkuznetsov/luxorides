@@ -1,4 +1,4 @@
-# Лендинг клуба, прдоставляющего своим членам в аренду автомобили премиальных брендов (https://andreigkuznetsov.github.io/luxorides/)
+# Лендинг клуба LuxoRides (https://andreigkuznetsov.github.io/luxorides/)
 Лендинг создан на интенсиве по Frontend-разработке с Романом Черновым (https://itlogia.ru/about)
 
 ## Стек технологий:
